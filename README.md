@@ -1,4 +1,4 @@
-reproducer of ...
+reproducer of https://issuetracker.google.com/issues/272334479
 
 # reproducer-androidstudio-compositebuild-multiplatform-unresolved-reference
 
