@@ -1,4 +1,7 @@
+
 reproducer of https://issuetracker.google.com/issues/272334479
+
+**2023/08/28: This issue has been fixed from Kotlin 1.8.20 and confirmed with Android Studio Giraffe 2022.3.1 Patch 1 \~**
 
 # reproducer-androidstudio-compositebuild-multiplatform-unresolved-reference
 
